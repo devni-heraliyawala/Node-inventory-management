@@ -21,12 +21,15 @@ Run in development mode. (Note that this require nodemon installed globally)
 npm run develop
 `````
 ## Other necessary commands
+ ``````````````````````````````````````
 1. npm --version
 2. npm install 
 3. npm outdated -g
 4. npm install outdated -g
-5. express --view-ejs
+5. express --view=ejs
 6. npm install express-generator -g
 7. npm install express
 8. npm install nodemon -g
 9. npm install mysql
+
+```````````````````````````````````````
