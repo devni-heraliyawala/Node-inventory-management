@@ -29,3 +29,4 @@ npm run develop
 6. npm install express-generator -g
 7. npm install express
 8. npm install nodemon -g
+9. npm install mysql
